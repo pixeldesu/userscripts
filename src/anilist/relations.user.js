@@ -14,7 +14,7 @@
   /**
    * Debug option, if set to true, console output with helpful debug info will be shown
    */
-  const DEBUG = true;
+  const DEBUG = false;
 
   /**
    * Object containing the localStorage `auth` user authentication data for easier access
