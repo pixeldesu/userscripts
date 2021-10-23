@@ -4,7 +4,7 @@ module.exports = {
     browser: true,
   },
   plugins: ['prettier'],
-  extends: ['airbnb', 'prettier'],
+  extends: ['airbnb-base', 'prettier'],
   rules: {
     'prettier/prettier': 'warn',
     'no-underscore-dangle': 'off',
